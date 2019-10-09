@@ -69,7 +69,8 @@ shinyServer(function(input, output) {
                           &nbsp &nbsp &nbsp &nbsp - # Replicates for each donor<span style='color:red'><strong>*</strong></span> <br/>
                           &nbsp &nbsp &nbsp &nbsp - # Inputs for each donor<span style='color:red'><strong>*</strong></span> <br/>
                           &nbsp &nbsp &nbsp &nbsp - paired-end(pe) or singled-end(pe) samples for each donor<span style='color:red'><strong>*</strong></span> <br/>
-                        <span style='color:red'><strong>*</span>All items that need MORE than 1 element MUST be COMMA-SEPARATED</strong> <br/> <br/>")
+                        <span style='color:red'><strong>*</span>All items that need MORE than 1 element MUST be COMMA-SEPARATED</strong> <br/> <br/>
+                 If you want to see the code click the link <a href='https://github.com/LaureTomas/coursera'>Code in Github</a> <br/> <br/> <br/>")
         } else {
             return()
         }
